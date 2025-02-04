@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA540BF-CD1D-466C-ACED-14A36D708DC3}|Datos\\Datos.csproj|c:\\users\\diegoalejandroariast\\source\\repos\\webapi\\datos\\clases\\do\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA540BF-CD1D-466C-ACED-14A36D708DC3}|Datos\\Datos.csproj|solutionrelative:datos\\clases\\do\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA540BF-CD1D-466C-ACED-14A36D708DC3}|Datos\\Datos.csproj|c:\\users\\diegoalejandroariast\\source\\repos\\webapi\\datos\\clases\\do\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA540BF-CD1D-466C-ACED-14A36D708DC3}|Datos\\Datos.csproj|solutionrelative:datos\\clases\\do\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4454-C080-4D64-A821-5B4F84331FE2}|CambioEstadoPlaneacionAPI\\WebAPI.csproj|c:\\users\\diegoalejandroariast\\source\\repos\\webapi\\cambioestadoplaneacionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFF4454-C080-4D64-A821-5B4F84331FE2}|CambioEstadoPlaneacionAPI\\WebAPI.csproj|solutionrelative:cambioestadoplaneacionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4454-C080-4D64-A821-5B4F84331FE2}|CambioEstadoPlaneacionAPI\\WebAPI.csproj|c:\\users\\diegoalejandroariast\\source\\repos\\webapi\\cambioestadoplaneacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF4454-C080-4D64-A821-5B4F84331FE2}|CambioEstadoPlaneacionAPI\\WebAPI.csproj|solutionrelative:cambioestadoplaneacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4454-C080-4D64-A821-5B4F84331FE2}|CambioEstadoPlaneacionAPI\\WebAPI.csproj|c:\\users\\diegoalejandroariast\\source\\repos\\webapi\\cambioestadoplaneacionapi\\controllers\\planeacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF4454-C080-4D64-A821-5B4F84331FE2}|CambioEstadoPlaneacionAPI\\WebAPI.csproj|solutionrelative:cambioestadoplaneacionapi\\controllers\\planeacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\Datos\\Clases\\DO\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\Clases\\DO\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\Datos\\Clases\\DO\\AppDbContext.cs",
+              "RelativeToolTip": "Datos\\Clases\\DO\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:01:13.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entidades.cs",
+              "DocumentMoniker": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\Datos\\Clases\\DO\\Entidades.cs",
+              "RelativeDocumentMoniker": "Datos\\Clases\\DO\\Entidades.cs",
+              "ToolTip": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\Datos\\Clases\\DO\\Entidades.cs",
+              "RelativeToolTip": "Datos\\Clases\\DO\\Entidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:00:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\CambioEstadoPlaneacionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CambioEstadoPlaneacionAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\CambioEstadoPlaneacionAPI\\Program.cs",
+              "RelativeToolTip": "CambioEstadoPlaneacionAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:51:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\CambioEstadoPlaneacionAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CambioEstadoPlaneacionAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\CambioEstadoPlaneacionAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CambioEstadoPlaneacionAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T20:51:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaneacionController.cs",
+              "DocumentMoniker": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\CambioEstadoPlaneacionAPI\\Controllers\\PlaneacionController.cs",
+              "RelativeDocumentMoniker": "CambioEstadoPlaneacionAPI\\Controllers\\PlaneacionController.cs",
+              "ToolTip": "C:\\Users\\DiegoAlejandroAriasT\\source\\repos\\WebAPI\\CambioEstadoPlaneacionAPI\\Controllers\\PlaneacionController.cs",
+              "RelativeToolTip": "CambioEstadoPlaneacionAPI\\Controllers\\PlaneacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:04:48.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

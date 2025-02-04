@@ -1,0 +1,17 @@
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\InterfacesComunes.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\bin\Debug\net8.0\InterfacesComunes.pdb
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\Negocio\obj\Debug\net8.0\ref\Negocio.dll

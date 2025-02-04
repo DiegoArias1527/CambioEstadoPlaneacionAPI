@@ -1,0 +1,11 @@
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\bin\Debug\net8.0\InterfacesComunes.deps.json
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\bin\Debug\net8.0\InterfacesComunes.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\bin\Debug\net8.0\InterfacesComunes.pdb
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\InterfacesComunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\InterfacesComunes.AssemblyInfoInputs.cache
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\InterfacesComunes.AssemblyInfo.cs
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\InterfacesComunes.csproj.CoreCompileInputs.cache
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\InterfacesComunes.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\refint\InterfacesComunes.dll
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\InterfacesComunes.pdb
+C:\Users\DiegoAlejandroAriasT\source\repos\WebAPI\InterfacesComunes\obj\Debug\net8.0\ref\InterfacesComunes.dll
